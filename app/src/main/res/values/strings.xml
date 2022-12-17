@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cookpad-hiring-android-exercise</string>
+
+    <string name="title_favorites">Favorites</string>
+    <string name="title_recipes">Recipes</string>
+
+</resources>

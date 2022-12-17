@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="recipe_list">Recipe List</string>
+    <string name="recipe_count">%s Recipe(s) Available.</string>
+    <string name="generic_error_message">Error fetching recipe list!</string>
+
+    <string name="title_recipes">Error fetching recipe list!</string>
+</resources>

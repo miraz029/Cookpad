@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="favorite_icon_content_description">Add to favorite</string>
+    <string name="generic_error_message">Error fetching favorite list!</string>
+    <string name="recipe_count">%s Recipe(s) Available.</string>
+</resources>
